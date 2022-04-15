@@ -1,6 +1,8 @@
 # valostore-py
 A Python program for checking Valorant store offers without logging in to Valorant game client.
 
+Big thanks to [OwOHamper](https://github.com/OwOHamper/Valorant-item-shop-discord-bot/blob/b50225401b6ed66aaffce8b684e9f92210298566/item_shop_viewer.py#L93) and the folks at [Valorant App Developers Discord](https://discord.gg/xUDyyFbBE9)
+
 # Requirements
 - [Python 3](https://www.python.org/downloads/)
 - [requests library](https://docs.python-requests.org/en/latest/user/install/)
